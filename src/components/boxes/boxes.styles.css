@@ -1,0 +1,21 @@
+.boxes{
+    margin-top: 50px;
+}
+/* .grid-items{
+    margin: 0 1% !important;
+} */
+.grid-items{
+    border-bottom: 10px solid blue;
+    /* margin-right: 1% !important; */
+}
+.grid-items-1{
+    border-bottom: 10px solid red;
+    /* margin: 0 1% !important; */
+
+}
+.grid-items-2{
+    border-bottom: 10px solid green;
+}
+.grid-items-3{
+    border-bottom: 10px solid yellow;
+}
